@@ -1,0 +1,31 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: caliber;
+     font-weight: bold;
+}
+
+li{
+   list-style-type: none;
+   padding: 10px;
+}
+a{
+    color:black;
+    text-decoration-line: none;
+}
+
+h1{
+    text-align: center;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+body{
+    background: url("../images/Mountain_climbing.jpg");
+    text-align: center;
+}
